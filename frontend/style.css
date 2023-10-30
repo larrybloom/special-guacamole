@@ -1,0 +1,542 @@
+.i-phone-14-15-pro-max-3,
+.i-phone-14-15-pro-max-3 * {
+  box-sizing: border-box;
+}
+
+.i-phone-14-15-pro-max-3 {
+  background: #3c54d1;
+  width: 26.875rem;
+  height: 58.25rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.notification {
+  width: 22.9375rem;
+  height: 1.875rem;
+  position: absolute;
+  left: 2.125rem;
+  top: 1.3125rem;
+}
+
+.vector {
+  position: absolute;
+  left: 19.3125rem;
+  top: 0.25rem;
+  overflow: visible;
+}
+
+.battery-three-quarters {
+  position: absolute;
+  left: 21.375rem;
+  top: 0.3125rem;
+  overflow: visible;
+}
+
+.vector3 {
+  position: absolute;
+  left: 17.125rem;
+  top: 0.4375rem;
+  overflow: visible;
+}
+
+._3-16-pm {
+  color: #000000;
+  text-align: left;
+  font: 800 1.25rem "Poppins", sans-serif;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+
+.loan-balance {
+  color: #ffffff;
+  text-align: left;
+  font: 500 1.5625rem "Poppins", sans-serif;
+  position: absolute;
+  left: 8rem;
+  top: 4.0625rem;
+  width: 10.8125rem;
+  height: 2rem;
+}
+
+.ci-hamburger-md {
+  position: absolute;
+  left: 1.5rem;
+  top: 4.5rem;
+  overflow: visible;
+}
+
+.n-5-000 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 1.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 10.1875rem;
+  top: 6.75rem;
+}
+
+.borrowed {
+  color: #adadad;
+  text-align: left;
+  font: 500 1.0625rem "Poppins", sans-serif;
+  position: absolute;
+  left: 2.125rem;
+  top: 8.0625rem;
+}
+
+._27th-jan-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 1.625rem;
+  top: 9.8125rem;
+}
+
+._4th-feb-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 19rem;
+  top: 9.8125rem;
+}
+
+.remittance {
+  color: #adadad;
+  text-align: left;
+  font: 500 1.0625rem "Poppins", sans-serif;
+  position: absolute;
+  left: 18.6875rem;
+  top: 8.125rem;
+}
+
+.component-1 {
+  position: absolute;
+  left: 9.125rem;
+  top: 10.0625rem;
+  overflow: visible;
+}
+
+.frame-3 {
+  background: #f9f9f9;
+  border-radius: 0.625rem 0.625rem 0rem 0rem;
+  width: 26.875rem;
+  height: 40.6875rem;
+  position: absolute;
+  left: 0rem;
+  top: 15.1875rem;
+  overflow: hidden;
+}
+
+.frame-7 {
+  background: #ffffff;
+  border-radius: 0.3125rem;
+  width: 23.9375rem;
+  height: 21.8125rem;
+  position: absolute;
+  left: 1.4375rem;
+  top: 17.8125rem;
+  box-shadow: 0px 0px 0.25rem 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.activities {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 1.5625rem;
+  top: 0.75rem;
+}
+
+.view-all {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 19.1875rem;
+  top: 0.75rem;
+}
+
+.loan-coverage-increased {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 2.875rem;
+}
+
+.added-guarantor {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 14.3125rem;
+  width: 12.75rem;
+}
+
+.loan-rejected {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 18rem;
+  width: 12.75rem;
+}
+
+.by-6-36-pm {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 4.1875rem;
+}
+
+.by-fri-12-th-sept-3-16-pm {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 8rem;
+}
+
+.by-mon-8th-sept-8-02-pm {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif; /* 12px/16px */
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 11.8125rem; /* 189px/16px */
+}
+
+.by-sun-7th-sept-1-01-am {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif; /* 12px/16px */
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 15.6875rem; /* 251px/16px */
+}
+
+.by-weds-3rd-sept-8-39-am {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif; /* 12px/16px */
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 19.375rem; /* 310px/16px */
+}
+
+.line-4 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0;
+  width: 20.875rem;
+  height: 0rem;
+  position: absolute;
+  left: 3.1875rem;
+  top: 5.875rem;
+}
+
+.line-5 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0; /* 1px/16px */
+  width: 20.875rem; /* 334px/16px */
+  height: 0;
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 9.6875rem; /* 155px/16px */
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+
+.line-6 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0; /* 1px/16px */
+  width: 20.875rem; /* 334px/16px */
+  height: 0;
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 13.5rem; /* 216px/16px */
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+
+.line-7 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0; /* 1px/16px */
+  width: 20.875rem; /* 334px/16px */
+  height: 0;
+  position: absolute;
+  left: 3.1875rem; /* 51px/16px */
+  top: 17.375rem; /* 278px/16px */
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+
+.n-5-0002 {
+  color: #000000;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 18.8125rem;
+  top: 7.375rem;
+}
+
+.to-n-10-000 {
+  color: #000000;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 17.75rem;
+  top: 3.5rem;
+}
+
+.n-5-0003 {
+  color: #000000;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 18.9375rem;
+  top: 11.1875rem;
+}
+
+.pending-verification {
+  color: #000000;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 13.8125rem;
+  top: 14.9375rem;
+}
+
+.update-profile {
+  color: #000000;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 16.3125rem;
+  top: 18.625rem;
+}
+
+.frame-8 {
+  background: #ffffff;
+  border-radius: 0.625rem;
+  width: 24rem;
+  height: 7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 10rem;
+  box-shadow: 0px 0px 0.25rem 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.quick-access {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 1.4375rem;
+  top: 0.75rem;
+}
+
+.frame-9 {
+  background: #ebebeb;
+  border-radius: 0.3125rem;
+  width: 4.875rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 1.4375rem;
+  top: 2.5625rem;
+  overflow: hidden;
+}
+
+.buy-airtime {
+  color: #727272;
+  text-align: left;
+  font: 500 0.59375rem "Poppins", sans-serif; /* 9.5px/16px */
+  position: absolute;
+  left: 0.6875rem;
+  top: 2.25rem;
+}
+
+.frame-10 {
+  background: #ebebeb;
+  border-radius: 0.3125rem;
+  width: 4.875rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 6.875rem;
+  top: 2.5625rem;
+  overflow: hidden;
+}
+
+.buy-data {
+  color: #727272;
+  text-align: left;
+  font: 500 0.59375rem "Poppins", sans-serif; /* 9.5px/16px */
+  position: absolute;
+  left: 0.875rem;
+  top: 2.1875rem;
+}
+
+.frame-11 {
+  background: #ebebeb;
+  border-radius: 0.3125rem;
+  width: 4.875rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 12.25rem;
+  top: 2.5625rem;
+  overflow: hidden;
+}
+
+.request-card {
+  color: #727272;
+  text-align: left;
+  font: 500 0.59375rem "Poppins", sans-serif;
+  position: absolute;
+  left: 0.375rem;
+  top: 2.1875rem;
+}
+
+.frame-12 {
+  background: #ebebeb;
+  border-radius: 0.3125rem;
+  width: 4.875rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 17.625rem;
+  top: 2.5625rem;
+  overflow: hidden;
+}
+
+.invite-friends {
+  color: #727272;
+  text-align: left;
+  font: 500 0.59375rem "Poppins", sans-serif; /* 9.5px/16px */
+  position: absolute;
+  left: 0.4375rem;
+  top: 2.1875rem;
+}
+
+.frame-6 {
+  background: #ffffff;
+  border-radius: 0.3125rem;
+  width: 24rem;
+  height: 12.25rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 12.1875rem;
+  box-shadow: 0px 0px 0.25rem 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.loan-request {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 0.875rem;
+}
+
+.repay-loan {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif; /* 14px/16px */
+  position: absolute;
+  left: 3.1875rem;
+  top: 4.9375rem;
+}
+
+.invest-in-p-2-p-loans {
+  color: #3c54d1;
+  text-align: left;
+  font: 500 0.875rem "Poppins", sans-serif; /* 14px/16px */
+  position: absolute;
+  left: 3.1875rem;
+  top: 9rem;
+}
+
+.request-for-urgent-2-k-from-p-2-p-lenders {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 2.1875rem;
+}
+
+.remit-loan-balance-on-before-due-date {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 6.25rem;
+}
+
+.become-a-p-2-p-lender-invest-and-maximise-roi {
+  color: #adadad;
+  text-align: left;
+  font: 500 0.75rem "Poppins", sans-serif;
+  position: absolute;
+  left: 3.1875rem;
+  top: 10.3125rem;
+}
+
+.line-3 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0;
+  width: 21.125rem;
+  height: 0rem;
+  position: absolute;
+  left: 2.875rem;
+  top: 4.125rem;
+}
+
+.line-42 {
+  border-style: solid;
+  border-color: #e1e1e1;
+  border-width: 0.0625rem 0 0 0;
+  width: 21.125rem;
+  height: 0rem;
+  position: absolute;
+  left: 2.875rem;
+  top: 8.1875rem;
+}
+
+.frame-4 {
+  background: #ffffff;
+  width: 26.875rem;
+  height: 3.9375rem;
+  position: absolute;
+  left: 0rem;
+  top: 54.3125rem;
+  box-shadow: 0rem 0rem 0.0625rem 0.0625rem rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.ellipse-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #b5b5b5;
+  border-width: 0.125rem;
+  width: 2.1875rem;
+  height: 2.25rem;
+  position: absolute;
+  left: calc(50% - -9.4375rem);
+  top: 4.5rem;
+}
